@@ -1,7 +1,7 @@
 # To-Do List
 
 Simple To-Do list with required features like complete and delete
-Displays the active and completed tasks seperately 
+| Displays the active and completed tasks seperately 
 
 
 # Steps to run
